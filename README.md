@@ -1,5 +1,10 @@
 # 医保欺诈检测实验
 
+## Portfolio positioning
+
+This is a compact research/coursework portfolio project for medical insurance fraud detection using T-Bi-LSTM with attention. It is preserved as a small, focused applied deep-learning example.
+
+
 基于深度学习的医疗保险欺诈检测系统，使用 T-Bi-LSTM+Attention 模型。
 
 ## 📊 核心成果
